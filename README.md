@@ -1,3 +1,6 @@
+
+# orginally code taken from https://github.com/Bindambc/whatsapp-business-java-api
+
 # MetaWhatsappAPI
 
 # [ <img src="https://user-images.githubusercontent.com/7831956/222028018-181cf927-781c-40a9-af7a-e3c3d1e39390.png" width="68" height="68"> Whatsapp Business java api SDK](https://github.com/rayyanmirza123/MetaWhatsappAPI/)
